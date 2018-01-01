@@ -1,48 +1,85 @@
-*Name of Organization*
-Learn To Be
+### Name of Organization
+Learn To Be Foundation
 
-Contact Information
-- Primary Contact
-- Grant Contact
-Social Media
-- Facebook
-- Twitter
-- Instagram
-- YouTube/Vimeo
-Board of Directors Roster
+### Contact Information 
+
+#### Primary Contact
+Neeraj Kapoor (neeraj.kapoor@learntobe.org)
+
+#### Grant Contact
+Neeraj Kapoor (neeraj.kapoor@learntobe.org)
+
+#### Social Media
+
+##### Facebook
+https://facebook.com/learntobe
+
+##### Twitter
+https://twitter.com/learntobe
+
+#### Board of Directors Roster
+1. Neeraj Kapoor
+2. Stephen Chen
+
+
+### IRS Number
+26-1919770
  
-IRS #
+### Letter of Determination/ 501(c)(3)
+https://learntobe.org/501c3
  
-Letter of Determination/ 501(c)(3)
-Please see the attached Letter of Determination
- 
-Organizational Chart (if available)
+### Organizational Chart (if available)
  
 Annual Report and/or Business Plan
 Please see the attached annual report (if available)
  
-Year of Incorporation
-To be defined from 501c3 letter
+### Year of Incorporation
+August 2008
+
+### Mission Statement
+
+#### Brief version ("elevator pitch")
+Learn To Be is a 501c3 non-profit bringing free, 1-on-1, online tutoring to underserved youth around the nation. 
+
+#### Long version
+Learn To Be is a 501c3 non-profit bringing free, 1-on-1, online tutoring to underserved youth around the nation. 
+
+
+#### Number of Staff
+
+##### Full-Time
+1
+
+##### Part-Time
+2
+
+##### Volunteers
+1500
+
+##### Board Members
+2
  
-Mission Statement
-- Brief version (“elevator pitch”)
-- Long version
-Number of Staff
-- Full-Time
-- Part-Time
-- Volunteers
-- Board Members
+### Program/Project Budget(s)
+
+#### Program 1 - 1-on-1 Online Tutoring:
+
+##### Summary
+
+##### Budget
+
+#### Program 2 - Online courses/practice modules
+
+##### Summary
+
+##### Budget
+
  
-Program/Project Budget(s)
-- Program 1:
-- Program 2:
-- Program 3:
-- Program 4:
- 
-Annual Organization Budget
+### Annual Organization Budget
+
 - Separate attachment
-Geographical Area to be Served (or areas)
- 
+
+### Geographical Area to be Served (or areas)
+
 Organizational History
 - Founded
 - Growth
