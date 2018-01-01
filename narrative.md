@@ -1,4 +1,5 @@
-Name of Organization
+*Name of Organization*
+Learn To Be
 
 Contact Information
 - Primary Contact
