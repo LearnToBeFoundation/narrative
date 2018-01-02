@@ -232,10 +232,23 @@ They want what's best for their kids and are doing their best, but from an acade
 	We are 100% transparent with every piece of data to every stakeholder at Learn To Be. This means that parents, students, staff, board members and the public are able to view every survey left for every tutoring session hosted. You can find this information at https://learntobe.org/impact 
 
 ### Future Planning/Strategic Plan
+
 ##### One year plan?
+
+	For 2018, the goal is to get $1000 of recurring revenue to Learn To Be. On average, families pay $8/month. This means that we will need to have 125 families we are working with. 
+
 ##### Three year plan?
+
+	In three years, the goal is to have 1000 families working with Learn To Be every month. With an average payment of $8/month, this will allow us to collect $8000 per month of revenue. We are confident that with our implementation of automation into website, we will be able to reach this goal since we can focus exclusively on recruiting families and marketing to families through a variety of channels. 
+
+
 ##### Five year plan?
+
+	In five years, the goal is to have 5000 families working with Learn To Be every month. With an average payment of $8/month, this will allow us to collect $40000 per month of revenue. We are confident that with our implementation of automation into website, we will be able to reach this goal since we can focus exclusively on recruiting families and marketing to families through a variety of channels. 
+
+
 ##### Intended growth in development, program, operations, etc.
+	*What does this mean?*
 
 ### Staffing
 ##### Executive leadership
