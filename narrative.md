@@ -142,12 +142,29 @@ The second key challenge is ensuring that we connect students with the appropria
 Families on food stamps, students attending Title 1 schools, homeless youth, students receiving free lunch at school, students living in single parent homes, foster youth, former gang members, students who are on track to be the first in their family to go to college
 
 ##### Region
+
+Nationwide 
+
 ##### City financial situation
+*What does this mean?*
+
 ##### Social services, or lack thereof
+*What does this mean?*
+
 ##### What are the needs and why?
+We can talk about how low income parents struggle living paycheck to paycheck and come home after a long days work and are either unwilling or unable to help their kids. We receive applications all the time about parents who are heartbroken over their inability to help their kids with school work. 
+
+They want what's best for their kids and are doing their best, but from an academic perspective, are unable to provide it.  These parents recognize the value of a quality education and that's why they've come to Learn To Be. They can't afford the egregious tutoring costs that many tutoring companies advertising.
+
+
 ##### What has been tried and why hasn’t it worked?
+*Are you asking what has been tried by the families we work with or what has Learn To Be tried?*
+
 ##### What is the district doing to help?
+*Was this question (in particular 'district') specifically tailored for the org you were helping?*
+
 ##### What new services are planned?
+*What does this mean?*
 
 ### Program/Project (Detailed)
 ##### Program(s) overview
@@ -166,12 +183,39 @@ Families on food stamps, students attending Title 1 schools, homeless youth, stu
 
 ### Purpose of Request:
 ##### What will the funds be used for? (General operating or program grant)
- Hiring new staff, diversifying funding streams, training staff, building websites, marketing, creating new programs, building a donor database, client database, social media campaign, etc.?
+
+	*So is this master narrative built for each grant you're sending out? It seems like this question will be changed.*
+	*What is a program grant?*
+
+	We ask parents in the enrollment form if they are able to pay anything per hour for the tutoring (from $2 per hour to $10 per hour). With our current offering, we are able to sustain our operating costs.  We are receiving $300 every month of recurring revenue.  
+
+	But we want to scale our services and this is what the funds will be used for. We want to hire web programmers to help us build more automation into our website that will help us scale our services. 
+
+	Right now we manually bill our families at the end of the month and the process of accepting them is still a bit manual.  A web programmer will help us build the features necessary on our site that will allow us to automate these processes so we can focus on finding new families. 
+
+
+ 	*EXAMPLES: Hiring new staff, diversifying funding streams, training staff, building websites, marketing, creating new programs, building a donor database, client database, social media campaign, etc.?*
+
 ##### What will the funding change, quantitatively and qualitatively?
+
+	Quantitatively, the funding will allow us to become a financially independent social enterprise, free of the need to secure grants every year. We are already sustain our operating costs. Funding right now will help us recruit more families, which will help us generate more funding, which will allow us to ultimately hire staff to further scale our operating. And, of course, all of this will help us fulfill our mission of providing more 1-on-1 tutoring to students in need of support. 
+
+	*Not sure what to put for qualitative improvements. In this case, I think quantitative improvements are better.*
+
+
 ##### What are the next steps?
+	
+	We will build out two key features on our website:
+	1. Automate the process of collecting credit card information and charging families for tutoring services received.
+	2. Automate the process of accepting parent/student applications. 
+
+	After we build these two features, we will then be able to turn our focus to marketing our services to every school, non-profit, church across the United States in order to get more families to know about Learn To Be and our tutoring services. 
 
 ### Evaluation and Measurement
+
 ##### How is the program tracked?
+
+
 ##### How are the numbers/outcomes evaluated?
 ##### Who sees the outcomes and makes decisions regarding reconfiguration or refinement to stay on goal?
 
