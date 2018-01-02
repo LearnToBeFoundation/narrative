@@ -110,8 +110,10 @@ We have also helped students from families living in South Africa and Iraq as a 
 *How is this different than above?*
 
 ##### Challenges
-*Talk about vetting families who are reliable*
-*Talk about properly connecting students with tutors who are best equipped to help them*
+One of the key challenges we face is in our vetting of families. Because our programming is entirely online, it is important that we find families who are reliable and who will show up for tutoring every week, as scheduled with their tutor.  This has proven to be quite difficult. As well-intentioned as parents are when they fill out the application, there are issues that arise after they are accepted and connected with a tutor. Some of these are tech issues (they aren't able to load the classroom due to shaky internet connection or lack of digital literacy) and other times life gets in the way and other things take priority over tutoring. A key for us is figuring out which of the families that reaches out fit our mission and are going to be reliable when working with volunteer tutors. 
+
+The second key challenge is ensuring that we connect students with the appropriate tutor. We have had wonderful connections between tutors and students, many of which have resulted in grade improvements in school, confidence boosts for students and a decrease in the burden from a parent already struggling to provide for their kids. But when we have to move tutors away from a student they have been working with, there is a real switching cost in re-broadcasting that student need to our other tutors and transitioning away from the previous tutor. We are looking to better connect tutors with students based on general criteria like whether the student prefers a male or female tutor and whether they prefer a tutor in a specific age range. We will also ask more detailed questions about the subject matter students need help with so tutors can better assess their ability to help. 
+
 
 ##### Opportunities
 
@@ -136,6 +138,9 @@ We have also helped students from families living in South Africa and Iraq as a 
  
 ### Need (Problem) Statement
 ##### Demographics
+
+Families on food stamps, students attending Title 1 schools, homeless youth, students receiving free lunch at school, students living in single parent homes, foster youth, former gang members, students who are on track to be the first in their family to go to college
+
 ##### Region
 ##### City financial situation
 ##### Social services, or lack thereof
