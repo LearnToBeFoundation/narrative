@@ -18,8 +18,8 @@ https://facebook.com/learntobe
 https://twitter.com/learntobe
 
 ### Board of Directors Roster
-1. Neeraj Kapoor
-2. Stephen Chen
+1. Stephen Chen (Board Chair)
+2. Neeraj Kapoor
 
 
 ### IRS Number
@@ -184,74 +184,74 @@ They want what's best for their kids and are doing their best, but from an acade
 ### Purpose of Request:
 ##### What will the funds be used for? (General operating or program grant)
 
-	*So is this master narrative built for each grant you're sending out? It seems like this question will be changed.*
-	*What is a program grant?*
+*So is this master narrative built for each grant you're sending out? It seems like this question will be changed.*
+*What is a program grant?*
 
-	We ask parents in the enrollment form if they are able to pay anything per hour for the tutoring (from $2 per hour to $10 per hour). With our current offering, we are able to sustain our operating costs.  We are receiving $300 every month of recurring revenue.  
+We ask parents in the enrollment form if they are able to pay anything per hour for the tutoring (from $2 per hour to $10 per hour). With our current offering, we are able to sustain our operating costs.  We are receiving $300 every month of recurring revenue.  
 
-	But we want to scale our services and this is what the funds will be used for. We want to hire web programmers to help us build more automation into our website that will help us scale our services. 
+But we want to scale our services and this is what the funds will be used for. We want to hire web programmers to help us build more automation into our website that will help us scale our services. 
 
-	Right now we manually bill our families at the end of the month and the process of accepting them is still a bit manual.  A web programmer will help us build the features necessary on our site that will allow us to automate these processes so we can focus on finding new families. 
+Right now we manually bill our families at the end of the month and the process of accepting them is still a bit manual.  A web programmer will help us build the features necessary on our site that will allow us to automate these processes so we can focus on finding new families. 
 
 
- 	*EXAMPLES: Hiring new staff, diversifying funding streams, training staff, building websites, marketing, creating new programs, building a donor database, client database, social media campaign, etc.?*
+	*EXAMPLES: Hiring new staff, diversifying funding streams, training staff, building websites, marketing, creating new programs, building a donor database, client database, social media campaign, etc.?*
 
 ##### What will the funding change, quantitatively and qualitatively?
 
-	Quantitatively, the funding will allow us to become a financially independent social enterprise, free of the need to secure grants every year. We are already sustain our operating costs. Funding right now will help us recruit more families, which will help us generate more funding, which will allow us to ultimately hire staff to further scale our operating. And, of course, all of this will help us fulfill our mission of providing more 1-on-1 tutoring to students in need of support. 
+Quantitatively, the funding will allow us to become a financially independent social enterprise, free of the need to secure grants every year. We are already sustain our operating costs. Funding right now will help us recruit more families, which will help us generate more funding, which will allow us to ultimately hire staff to further scale our operating. And, of course, all of this will help us fulfill our mission of providing more 1-on-1 tutoring to students in need of support. 
 
-	*Not sure what to put for qualitative improvements. In this case, I think quantitative improvements are better.*
+*Not sure what to put for qualitative improvements. In this case, I think quantitative improvements are better.*
 
 
 ##### What are the next steps?
 	
-	We will build out two key features on our website:
-	1. Automate the process of collecting credit card information and charging families for tutoring services received.
-	2. Automate the process of accepting parent/student applications. 
+We will build out two key features on our website:
+1. Automate the process of collecting credit card information and charging families for tutoring services received.
+2. Automate the process of accepting parent/student applications. 
 
-	After we build these two features, we will then be able to turn our focus to marketing our services to every school, non-profit, church across the United States in order to get more families to know about Learn To Be and our tutoring services. 
+After we build these two features, we will then be able to turn our focus to marketing our services to every school, non-profit, church across the United States in order to get more families to know about Learn To Be and our tutoring services. 
 
 ### Evaluation and Measurement
 
 ##### How is the program tracked?
 	
-	1. All of our tutoring sessions are recorded for viewing by parents, students, teachers and Learn To Be administrators.
-	2. Built into our virtual classroom is a set of math exercises that tutors can assign to students in real-time. We collect data on the student for every problem assigned like how long it is taking them to input an answer and how many wrong answers they input before inputting a correct answer. We use this data and machine learning algorithms to assess whether they have mastered the concept in question. This is an independent way to evaluate the success of a single tutoring session and measure trends of multiple tutoring sessions for a given student. 
-	3. Post session, we ask tutors and students to fill out a quick qualitative survey. 
-	4. On the 15th of every month, we send an email to parents asking them to fill out a survey of whether students have seen score/grade improvements in school and if not, if there have been any other improvements that can be noted. 
+1. All of our tutoring sessions are recorded for viewing by parents, students, teachers and Learn To Be administrators.
+2. Built into our virtual classroom is a set of math exercises that tutors can assign to students in real-time. We collect data on the student for every problem assigned like how long it is taking them to input an answer and how many wrong answers they input before inputting a correct answer. We use this data and machine learning algorithms to assess whether they have mastered the concept in question. This is an independent way to evaluate the success of a single tutoring session and measure trends of multiple tutoring sessions for a given student. 
+3. Post session, we ask tutors and students to fill out a quick qualitative survey. 
+4. On the 15th of every month, we send an email to parents asking them to fill out a survey of whether students have seen score/grade improvements in school and if not, if there have been any other improvements that can be noted. 
 
 
 ##### How are the numbers/outcomes evaluated?
 
-	Currently, all data is processed internally. Our CEO is a data scientist and has implemented machine learning algorithms to help assess student mastery of concepts that were assigned during tutoring sessions. 
+Currently, all data is processed internally. Our CEO is a data scientist and has implemented machine learning algorithms to help assess student mastery of concepts that were assigned during tutoring sessions. 
 
-	Most of the survey data is qualitative and so cannot be evaluated in a rigorous, statistical way. 
+Most of the survey data is qualitative and so cannot be evaluated in a rigorous, statistical way. 
 
 ##### Who sees the outcomes and makes decisions regarding reconfiguration or refinement to stay on goal?
 
-	We are 100% transparent with every piece of data to every stakeholder at Learn To Be. This means that parents, students, staff, board members and the public are able to view every survey left for every tutoring session hosted. You can find this information at https://learntobe.org/impact 
+We are 100% transparent with every piece of data to every stakeholder at Learn To Be. This means that parents, students, staff, board members and the public are able to view every survey left for every tutoring session hosted. You can find this information at [https://learntobe.org/impact](https://learntobe.org/impact)
 
 ### Future Planning/Strategic Plan
 
 ##### One year plan?
 
-	For 2018, the goal is to get $1000 of recurring revenue to Learn To Be. On average, families pay $8/month. This means that we will need to have 125 families we are working with. 
+For 2018, the goal is to get $1000 of recurring revenue to Learn To Be. On average, families pay $8/month. This means that we will need to have 125 families we are working with. 
 
 ##### Three year plan?
 
-	In three years, the goal is to have 1000 families working with Learn To Be every month. With an average payment of $8/month, this will allow us to collect $8000 per month of revenue. We are confident that with our implementation of automation into website, we will be able to reach this goal since we can focus exclusively on recruiting families and marketing to families through a variety of channels. 
+In three years, the goal is to have 1000 families working with Learn To Be every month. With an average payment of $8/month, this will allow us to collect $8000 per month of revenue. We are confident that with our implementation of automation into website, we will be able to reach this goal since we can focus exclusively on recruiting families and marketing to families through a variety of channels. 
 
 
 ##### Five year plan?
 
-	In five years, the goal is to have 5000 families working with Learn To Be every month. With an average payment of $8/month, this will allow us to collect $40000 per month of revenue. We are confident that with our implementation of automation into website, we will be able to reach this goal since we can focus exclusively on recruiting families and marketing to families through a variety of channels. 
+In five years, the goal is to have 5000 families working with Learn To Be every month. With an average payment of $8/month, this will allow us to collect $40000 per month of revenue. We are confident that with our implementation of automation into website, we will be able to reach this goal since we can focus exclusively on recruiting families and marketing to families through a variety of channels. 
 
 
 ##### Intended growth in development, program, operations, etc.
-	*What does this mean?*
+*What does this mean?*
 
 ### Staffing
-	*What do I write here?*
+*What do I write here?*
 ##### Executive leadership
 ##### Program leadership
 
@@ -260,9 +260,25 @@ They want what's best for their kids and are doing their best, but from an acade
 
 ##### Community collaborators
 
-American Dream Clean, Ascending Lights, Philosophy Kids, ProUnitas
+###### Tutoring Partners
+[American Dream Clean](https://www.americandreamclean.com) - American Dream Clean is a mission-driven commercial cleaning company delivering an exceptional cleaning service while also ensuring the children of the families we employ have access to a good education and a path to college and career. They serve as a portal to direct their families to Learn To Be to enroll in our online tutoring program.
 
-Hulu, Heroku, Zapier, Paperform, Twilio
+[Ascending Lights](https://ascendinglights.org) - Ascending Lights has a tutoring program that allows for their tutors to help first generation community college students through our virtual classroom.
+
+[School On Wheels](https://schoolonwheels.org) - School On Wheels is a non-profit that brings academic resources to homeless youth in the Southern California area. They use the Learn To Be virtual classroom to host tutoring sessions between their tutors and homeless youth around Los Angeles. 
+
+[Philosophy Kids](https://philosophykids.org) - Philosophy Kids is a non-profit that brings academic support to students in Pennsylvania, New York and Texas.
+
+[ProUnitas](https://prounitas.org) - Prounitas empowers students by equipping academic institutions with a data-driven blueprint to eliminate non-academic barriers to student success. They offer Learn To Be as a service to the students they serve. 
+
+###### Corporate Partners
+
+[Hulu](https://hulu.com) - We were one of the very first non-profits to be granted a PSA on hulu in 2009. This PSA helped to propel Learn To Be onto the education scene. Within the first days of the PSA launching, we received hundreds of tutor applications from interested candidates. 
+
+[Zapier](https://zapier.com) - Zapier helps us automate processes and free up our time to recruit more students and tutors. 
+
+[Paperform](https://paperform.co) - Paperform has offered us a free Pro account and helped us to test out new educational offering and quickly collect survey data from tutors, students and parents. 
+
 
 ### Major Funders (2015-16)
 
@@ -292,7 +308,6 @@ To my knowledge, the only company that does tutoring similar to Learn To Be is T
 Organizations like the Khan Academy are a great educational service, but provide only pre-recorded videos. These are not well-suited for the demographic that Learn To Be is targeting.  Often times, Learn To Be works with students are who many grade levels behind and these one-size-fits-all videos just don't work for them. The students we work with need individualized help and that's what we are going to provide them with. 
 
 
-
 ### Outside References/Quotes by Partners
 ##### What local celebrities, respected community leaders can provide a quote regarding the quality of LPEF’s/LUSD’s programs? (See page 9 of the CCF Proposal)
 
@@ -300,4 +315,4 @@ None :(
 
 ##### Media/ News Articles
 
-None :(
+[Learn To Be Hulu PSA](https://vimeo.com)
