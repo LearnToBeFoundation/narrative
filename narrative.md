@@ -3,21 +3,21 @@ Learn To Be Foundation
 
 ### Contact Information 
 
-#### Primary Contact
+##### Primary Contact
 Neeraj Kapoor (neeraj.kapoor@learntobe.org)
 
-#### Grant Contact
+##### Grant Contact
 Neeraj Kapoor (neeraj.kapoor@learntobe.org)
 
-#### Social Media
+### Social Media
 
-##### Facebook
+###### Facebook
 https://facebook.com/learntobe
 
-##### Twitter
+###### Twitter
 https://twitter.com/learntobe
 
-#### Board of Directors Roster
+### Board of Directors Roster
 1. Neeraj Kapoor
 2. Stephen Chen
 
@@ -38,40 +38,40 @@ August 2008
 
 ### Mission Statement
 
-#### Brief version ("elevator pitch")
+##### Brief version ("elevator pitch")
 Learn To Be is a 501c3 non-profit bringing free, 1-on-1, online tutoring to underserved youth around the nation. 
 
-#### Long version
+##### Long version
 Learn To Be is a 501c3 non-profit bringing free, 1-on-1, online tutoring to underserved youth around the nation. 
 
 
-#### Number of Staff
+##### Number of Staff
 
-##### Full-Time
+###### Full-Time
 1
 
-##### Part-Time
+###### Part-Time
 2
 
-##### Volunteers
+###### Volunteers
 1500
 
-##### Board Members
+###### Board Members
 2
  
 ### Program/Project Budget(s)
 
-#### Program 1 - 1-on-1 Online Tutoring:
+##### Program 1 - 1-on-1 Online Tutoring:
 
-##### Summary
+###### Summary
 
-##### Budget
+###### Budget
 
-#### Program 2 - Online courses/practice modules
+##### Program 2 - Online courses/practice modules
 
-##### Summary
+###### Summary
 
-##### Budget
+###### Budget
 
  
 ### Annual Organization Budget
@@ -80,81 +80,104 @@ Learn To Be is a 501c3 non-profit bringing free, 1-on-1, online tutoring to unde
 
 ### Geographical Area to be Served (or areas)
 
-Organizational History
-- Founded
-- Growth
-- Size
-- Challenges
-- Opportunities
-Organization Programs and Services (Overview- brief paragraph each)
-- Educational  
-- Health  
-- Financial/Economic Devpt.
-- Family
-- Housing
-- Etc., etc.
-Target Population
-- Gender breakdown
-- Race/Ethnicity
-- Age
-- Economic differentiators
+Nationwide - We have hosted tutoring sessions with students in every state in the United States. Our students primarily come from California, New York, Florida and Texas. 
+
+We have also helped students from families living in South Africa and Iraq as a (very) small pilot to test how well tutoring can be done internationally. 
+
+### Organizational History
+
+#### Founded
+2008
+
+#### Growth
+
+#### Size
+
+#### Challenges
+#### Opportunities
+
+### Organization Programs and Services (Overview- brief paragraph each)
+
+#### Educational  
+#### Health  
+#### Financial/Economic Devpt.
+#### Family
+#### Housing
+#### Etc., etc.
+
+### Target Population
+
+#### Gender breakdown
+#### Race/Ethnicity
+#### Age
+#### Economic differentiators
  
-Need (Problem) Statement
-- Demographics
-- Region
-- City financial situation
-- Social services, or lack thereof
-- What are the needs and why?
-- What has been tried and why hasn’t it worked?
-- What is the district doing to help?
-- What new services are planned?
-Program/Project (Detailed)
-- Program(s) overview
-- Intended impact
-- Activities
-- Prospective number served
-- Schedule/timeline
-- Staffing
-- Other
-Program Goals and Objectives:
-- Goals:
-- Objectives:
-- Qualitative Outcomes:
-- Quantitative Outcomes:
-Purpose of Request:
-- What will the funds be used for? (General operating or program grant)
-o Hiring new staff, diversifying funding streams, training staff, building websites, marketing, creating new programs, building a donor database, client database, social media campaign, etc.?
-- What will the funding change, quantitatively and qualitatively?
-- What are the next steps?
+### Need (Problem) Statement
+#### Demographics
+#### Region
+#### City financial situation
+#### Social services, or lack thereof
+#### What are the needs and why?
+#### What has been tried and why hasn’t it worked?
+#### What is the district doing to help?
+#### What new services are planned?
+
+### Program/Project (Detailed)
+#### Program(s) overview
+#### Intended impact
+#### Activities
+#### Prospective number served
+#### Schedule/timeline
+#### Staffing
+#### Other
+
+### Program Goals and Objectives:
+#### Goals:
+#### Objectives:
+#### Qualitative Outcomes:
+#### Quantitative Outcomes:
+
+### Purpose of Request:
+#### What will the funds be used for? (General operating or program grant)
+##### Hiring new staff, diversifying funding streams, training staff, building websites, marketing, creating new programs, building a donor database, client database, social media campaign, etc.?
+#### What will the funding change, quantitatively and qualitatively?
+#### What are the next steps?
 Evaluation and Measurement
-- How is the program tracked?
-- How are the numbers/outcomes evaluated?
-- Who sees the outcomes and makes decisions regarding reconfiguration or refinement to stay on goal?
-Future Planning/Strategic Plan
-- One year plan?
-- Three year plan?
-- Five year plan?
-- Intended growth in development, program, operations, etc.
-Staffing
-- Executive leadership
-- Program leadership
-Major Partners
-- Community collaborators
-o Churches, government, non-profits,
-Major Funders (2015-16)
-- Narrative on who else funds the District’s programs – key names like Keck, Weingart, CA Community Foundation, Robert Wood Johnson, Ahmanson, Kellogg are a plus. Also corporate donors.
-Leverage Funding Statement (explain the funding streams and ratio)
-- What is the immediate and long range plan for financial sustainability?
-- What is the breakdown on where the funding comes from:
-o Government - %?
-o Fees - %?
-o Scholarships - %?
-o Foundations - %?
-o Corporations - %?
-o In-kind Giving - %?
-Comparable Programs
-- Who else is serving the youth of the Lynwood School District?
-- Why is LPEF uniquely equipped to address these needs?
-Outside References/Quotes by Partners
-- What local celebrities, respected community leaders can provide a quote regarding the quality of LPEF’s/LUSD’s programs? (See page 9 of the CCF Proposal)
-Media/ News Articles
+#### How is the program tracked?
+#### How are the numbers/outcomes evaluated?
+#### Who sees the outcomes and makes decisions regarding reconfiguration or refinement to stay on goal?
+
+### Future Planning/Strategic Plan
+#### One year plan?
+#### Three year plan?
+#### Five year plan?
+#### Intended growth in development, program, operations, etc.
+
+### Staffing
+#### Executive leadership
+#### Program leadership
+
+### Major Partners
+#### Community collaborators
+##### Churches, government, non-profits,
+
+### Major Funders (2015-16)
+##### Narrative on who else funds the District’s programs – key names like Keck, Weingart, CA Community Foundation, Robert Wood Johnson, Ahmanson, Kellogg are a plus. Also corporate donors.
+
+### Leverage Funding Statement (explain the funding streams and ratio)
+#### What is the immediate and long range plan for financial sustainability?
+#### What is the breakdown on where the funding comes from:
+##### Government - %?
+##### Fees - %?
+##### Scholarships - %?
+##### Foundations - %?
+##### Corporations - %?
+##### In-kind Giving - %?
+
+### Comparable Programs
+#### Who else is serving the youth of the Lynwood School District?
+#### Why is LPEF uniquely equipped to address these needs?
+
+### Outside References/Quotes by Partners
+#### What local celebrities, respected community leaders can provide a quote regarding the quality of LPEF’s/LUSD’s programs? (See page 9 of the CCF Proposal)
+#### Media/ News Articles
