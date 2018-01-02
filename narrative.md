@@ -251,19 +251,31 @@ They want what's best for their kids and are doing their best, but from an acade
 	*What does this mean?*
 
 ### Staffing
+	*What do I write here?*
 ##### Executive leadership
 ##### Program leadership
 
+
 ### Major Partners
+
 ##### Community collaborators
-*Is this a place to be really specific with it? Ie, should I be naming specific organizations?*
+
 American Dream Clean, Ascending Lights, Philosophy Kids, ProUnitas
 
+Hulu, Heroku, Zapier, Paperform, Twilio
+
 ### Major Funders (2015-16)
-Narrative on who else funds the District’s programs – key names like Keck, Weingart, CA Community Foundation, Robert Wood Johnson, Ahmanson, Kellogg are a plus. Also corporate donors.
+
+None for 2017
 
 ### Leverage Funding Statement (explain the funding streams and ratio)
+
 ##### What is the immediate and long range plan for financial sustainability?
+
+Our operating costs to keep the Learn To Be site up and running for parents and tutors is very small. At our current scale, it costs us $3500 to run Learn To Be. We generate about $300 per month of recurring revenue from the parents we currently work with and so we are a fully sustained organization. 
+
+But in order to scale, we know that we need to hire more staff. This staff can help us spread the word about Learn To Be, get more families to enroll and help us generate more funding. This is our long term plan for financial sustainability. 
+
 ##### What is the breakdown on where the funding comes from:
 ###### Government - 0%
 ###### Fees - 20%
@@ -273,9 +285,19 @@ Narrative on who else funds the District’s programs – key names like Keck, W
 ###### In-kind Giving - 75%
 
 ### Comparable Programs
-##### Who else is serving the youth of the Lynwood School District?
-##### Why is LPEF uniquely equipped to address these needs?
+##### Who else is doing 1-on-1 online tutoring the way Learn To Be is?
+
+To my knowledge, the only company that does tutoring similar to Learn To Be is TutorChatLive. The difference is that their service is only through chat and does not involve a virtual classroom. This severely limits the efficacy of their tutoring because it is difficult to teach, for example, advanced algebra techniques via chat message only. 
+
+Organizations like the Khan Academy are a great educational service, but provide only pre-recorded videos. These are not well-suited for the demographic that Learn To Be is targeting.  Often times, Learn To Be works with students are who many grade levels behind and these one-size-fits-all videos just don't work for them. The students we work with need individualized help and that's what we are going to provide them with. 
+
+
 
 ### Outside References/Quotes by Partners
 ##### What local celebrities, respected community leaders can provide a quote regarding the quality of LPEF’s/LUSD’s programs? (See page 9 of the CCF Proposal)
+
+None :(
+
 ##### Media/ News Articles
+
+None :(
