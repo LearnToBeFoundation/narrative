@@ -214,10 +214,22 @@ They want what's best for their kids and are doing their best, but from an acade
 ### Evaluation and Measurement
 
 ##### How is the program tracked?
+	
+	1. All of our tutoring sessions are recorded for viewing by parents, students, teachers and Learn To Be administrators.
+	2. Built into our virtual classroom is a set of math exercises that tutors can assign to students in real-time. We collect data on the student for every problem assigned like how long it is taking them to input an answer and how many wrong answers they input before inputting a correct answer. We use this data and machine learning algorithms to assess whether they have mastered the concept in question. This is an independent way to evaluate the success of a single tutoring session and measure trends of multiple tutoring sessions for a given student. 
+	3. Post session, we ask tutors and students to fill out a quick qualitative survey. 
+	4. On the 15th of every month, we send an email to parents asking them to fill out a survey of whether students have seen score/grade improvements in school and if not, if there have been any other improvements that can be noted. 
 
 
 ##### How are the numbers/outcomes evaluated?
+
+	Currently, all data is processed internally. Our CEO is a data scientist and has implemented machine learning algorithms to help assess student mastery of concepts that were assigned during tutoring sessions. 
+
+	Most of the survey data is qualitative and so cannot be evaluated in a rigorous, statistical way. 
+
 ##### Who sees the outcomes and makes decisions regarding reconfiguration or refinement to stay on goal?
+
+	We are 100% transparent with every piece of data to every stakeholder at Learn To Be. This means that parents, students, staff, board members and the public are able to view every survey left for every tutoring session hosted. You can find this information at https://learntobe.org/impact 
 
 ### Future Planning/Strategic Plan
 ##### One year plan?
