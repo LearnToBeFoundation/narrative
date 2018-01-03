@@ -107,7 +107,7 @@ We have also helped students from families living in South Africa and Iraq as a 
 
 
 ##### Size
-*How is this different than above?*
+*How is this different than above where we list out the numbers we have for volunteers, full time, part time etc.*
 
 ##### Challenges
 One of the key challenges we face is in our vetting of families. Because our programming is entirely online, it is important that we find families who are reliable and who will show up for tutoring every week, as scheduled with their tutor.  This has proven to be quite difficult. As well-intentioned as parents are when they fill out the application, there are issues that arise after they are accepted and connected with a tutor. Some of these are tech issues (they aren't able to load the classroom due to shaky internet connection or lack of digital literacy) and other times life gets in the way and other things take priority over tutoring. A key for us is figuring out which of the families that reaches out fit our mission and are going to be reliable when working with volunteer tutors. 
@@ -152,6 +152,8 @@ Nationwide
 *What does this mean?*
 
 ##### What are the needs and why?
+Here is the data: [https://www.dosomething.org/us/facts/11-facts-about-education-and-poverty-america](https://www.dosomething.org/us/facts/11-facts-about-education-and-poverty-america)
+
 We can talk about how low income parents struggle living paycheck to paycheck and come home after a long days work and are either unwilling or unable to help their kids. We receive applications all the time about parents who are heartbroken over their inability to help their kids with school work. 
 
 They want what's best for their kids and are doing their best, but from an academic perspective, are unable to provide it.  These parents recognize the value of a quality education and that's why they've come to Learn To Be. They can't afford the egregious tutoring costs that many tutoring companies advertising.
@@ -294,7 +296,7 @@ But in order to scale, we know that we need to hire more staff. This staff can h
 
 ##### What is the breakdown on where the funding comes from:
 ###### Government - 0%
-###### Fees - 20%
+###### Fees - 20% (What do we consider fees? Is that like the pay-what-you-want?)
 ###### Scholarships - 0%
 ###### Foundations - 5%
 ###### Corporations - 0%
@@ -309,7 +311,7 @@ Organizations like the Khan Academy are a great educational service, but provide
 
 
 ### Outside References/Quotes by Partners
-##### What local celebrities, respected community leaders can provide a quote regarding the quality of LPEF’s/LUSD’s programs? (See page 9 of the CCF Proposal)
+##### What local celebrities, respected community leaders can provide a quote regarding the quality of Learn To Be's programs?
 
 None :(
 
