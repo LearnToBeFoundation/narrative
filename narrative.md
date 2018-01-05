@@ -362,9 +362,18 @@ None for 2017
 
 ##### What is the immediate and long range plan for financial sustainability?
 
-Our operating costs to keep the Learn To Be site up and running for parents and tutors is very small. At our current scale, it costs us $3500 to run Learn To Be. We generate about $300 per month of recurring revenue from the parents we currently work with and so we are a fully sustained organization. 
+Our operating costs to keep the Learn To Be site up and running for parents and tutors are very small. At our current scale, it costs us $3500 annually to run Learn To Be. We generate about $250 per month of recurring revenue from the parents we currently work with and so we're nearly sustainable with the number of students we're serving and our limited staff. 
 
-But in order to scale, we know that we need to hire more staff. This staff can help us spread the word about Learn To Be, get more families to enroll and help us generate more funding. This is our long term plan for financial sustainability. 
+But in order to scale, we know that we need to hire more staff. This staff can help us spread the word about Learn To Be, get more families to enroll and help us generate more funding. This is our long term plan for financial sustainability.  On average, families pay $8/month for the tutoring the receive. Tutoring lasts at least 12 months (though not always with the same tutor). 
+
+Let's assume 12 months of tutoring and $8/month per family. That's about $96 per family per year for Learn To Be. With about 35 families, we will have covered the cost of running Learn To Be. 
+
+In 2018, we are planning on making a big push to recruit more family. Our goal is have 218 families tutoring by the end of the year. Paying an average of $8/month, that should be $1744/month for Learn To Be. An exorbitant amount? No! 
+
+But as we work on our website and ensure that families are on-boarded as seamlessly as possible, we will be able to scale very easily. We have over 1500 tutors on our roster and if we're able to pair them with students, then we're looking at the ability to hire staff based on our revenue generation. 
+
+But, very simply, the incentives are aligned for us to recruit and on-board as many families as possible so we can help students who need the help and generate enough revenue to make Learn To Be financially sustainable and profitable. 
+
 
 ##### What is the breakdown on where the funding comes from:
 ###### Government - 0%
@@ -377,8 +386,14 @@ But in order to scale, we know that we need to hire more staff. This staff can h
 ### Comparable Programs
 ##### Who else is doing 1-on-1 online tutoring the way Learn To Be is?
 
+Tutor Chat Live
 To my knowledge, the only company that does tutoring similar to Learn To Be is TutorChatLive. The difference is that their service is only through chat and does not involve a virtual classroom. This severely limits the efficacy of their tutoring because it is difficult to teach, for example, advanced algebra techniques via chat message only. 
 
+Tutor.com
+Tutor.com provides free on-demand tutoring through public libraries however I have seen no studies on efficacy of such work. We're convinced that education and teaching betweetn tutor and student goes far beyond 1 hour session to help a student finish homework. And especially with the kids we work with, forging relationships and working over a number of hours together is the key to building better foundations for the student.  
+
+
+Khan Academy
 Organizations like the Khan Academy are a great educational service, but provide only pre-recorded videos. These are not well-suited for the demographic that Learn To Be is targeting.  Often times, Learn To Be works with students are who many grade levels behind and these one-size-fits-all videos just don't work for them. The students we work with need individualized help and that's what we are going to provide them with. 
 
 
@@ -390,3 +405,4 @@ None :(
 ##### Media/ News Articles
 
 [Learn To Be Hulu PSA](https://vimeo.com)
+[Time](http://time.com/money/3558650/how-to-save-on-tutoring/)
