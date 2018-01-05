@@ -71,6 +71,8 @@ The family and tutor work out the best day/time(s) for tutoring and on that sche
 
 
 ###### Budget
+*It's tough to calculate the budget for these programs because they're not so cut and dry. Any thoughts on best practices?*
+
 $3000
 
 ##### Program 2: Online courses/practice modules
@@ -109,12 +111,23 @@ We have also helped students from families living in South Africa and Iraq as a 
 *How is this different than above where we list out the numbers we have for volunteers, full time, part time etc.*
 
 ##### Challenges
+
 One of the key challenges we face is in our vetting of families. Because our programming is entirely online, it is important that we find families who are reliable and who will show up for tutoring every week, as scheduled with their tutor.  This has proven to be quite difficult. As well-intentioned as parents are when they fill out the application, there are issues that arise after they are accepted and connected with a tutor. Some of these are tech issues (they aren't able to load the classroom due to shaky internet connection or lack of digital literacy) and other times life gets in the way and other things take priority over tutoring. A key for us is figuring out which of the families that reaches out fit our mission and are going to be reliable when working with volunteer tutors. 
 
 The second key challenge is ensuring that we connect students with the appropriate tutor. We have had wonderful connections between tutors and students, many of which have resulted in grade improvements in school, confidence boosts for students and a decrease in the burden from a parent already struggling to provide for their kids. But when we have to move tutors away from a student they have been working with, there is a real switching cost in re-broadcasting that student need to our other tutors and transitioning away from the previous tutor. We are looking to better connect tutors with students based on general criteria like whether the student prefers a male or female tutor and whether they prefer a tutor in a specific age range. We will also ask more detailed questions about the subject matter students need help with so tutors can better assess their ability to help. 
 
 
 ##### Opportunities
+
+We had a tutor named Seena who worked with a second grader named Baleigh. They worked together for about 15 hours and they really hit it off. Both Seena and Baleigh are wonderful people. When they first met, Baleigh was really struggling in reading. Already, at age 8, she was very behind in reading and was failing quizzes in class. But after only 8 hours of tutoring with Seena, Baleigh's scores went from failing to greater than 90%. 
+
+We have another high school student who is working with a young college volunteer on math and he went from a D to a B in about 10 hours of 1-on-1 work online. 
+
+These are two of many anecdotal evidence we have to highlight how valuable Learn To Be can be for students across this nation. And it goes far beyond grades. Both students and parents have told us how the tutoring has helped to reduce stress and improve confidnece and that's so important. 
+
+We have a real opportunity to scale our operation to thousands of kids every year. With the right bit of tech mixed with a grass roots movement to spread the word about what we're doing, we can help change the dynamic in famililes from California to Iowa to New York. 
+
+
 
 ### Organization Programs and Services (Overview- brief paragraph each)
 *What does this mean? Should LTB only be writing something under educational paragraph? We don't do work with health, financial/economic development*
@@ -168,35 +181,57 @@ Families on food stamps, students attending Title 1 schools, homeless youth, stu
 
 ##### Region
 
-Nationwide 
-
 Below is a breakdown of every state where we've accepted a family for our tutoring. 
 
-Alabama - 2%
-Arizona - 4%
-California - 11%
-Colorado - 3%
-Florida - 9%
-Georgia - 7%
-Illinois - 1%
-Indiana - 2%
-Louisiana - 2%
-Maine - 1%
-Maryland - 2%
-Massachusetts - 1%
-Michigan - 1%
-Mississippi - 2%
-Montana - 1%
-New Jersey - 4%
-New York - 8%
-North Carolina - 3%
-Ohio - 3%
-Oklahoma - 2%
-Pennsylvania - 8%
-South Carolina - 3%
 Texas - 12%
-Virginia - 1%
+
+California - 11%
+
+Florida - 9%
+
+New York - 8%
+
+Pennsylvania - 8%
+
+Georgia - 7%
+
+Arizona - 4%
+
+New Jersey - 4%
+
+Colorado - 3%
+
+North Carolina - 3%
+
+Ohio - 3%
+
+South Carolina - 3%
+
+Alabama - 2%
+
+Indiana - 2%
+
+Louisiana - 2%
+
+Maryland - 2%
+
+Mississippi - 2%
+
+Oklahoma - 2%
+
 Washington - 2%
+
+Illinois - 1%
+
+Maine - 1%
+
+Massachusetts - 1%
+
+Michigan - 1%
+
+Montana - 1%
+
+Virginia - 1%
 
 
 
@@ -309,7 +344,7 @@ We are 100% transparent with every piece of data to every stakeholder at Learn T
 
 ##### One year plan?
 
-For 2018, the goal is to get $1000 of recurring revenue to Learn To Be. On average, families pay $8/month. This means that we will need to have 125 families we are working with. 
+For 2018, the goal is to get 218 families enrolled into Learn To Be tutoring. On average, families pay $8/month for the tutoring they receive. This means we are looking to generate $1744 of recurring revenue to Learn To Be by the end of 2018.
 
 ##### Three year plan?
 
@@ -325,9 +360,16 @@ In five years, the goal is to have 5000 families working with Learn To Be every 
 *What does this mean?*
 
 ### Staffing
-*What do I write here?*
+*What do I write here? Is this what we are looking to hire?*
 ##### Executive leadership
+
+Director of Engineering
+
 ##### Program leadership
+
+Tutor Coordinators/Champions
+
+Student/Family Coordinators/Champion
 
 
 ### Major Partners
@@ -335,6 +377,7 @@ In five years, the goal is to have 5000 families working with Learn To Be every 
 ##### Community collaborators
 
 ###### Tutoring Partners
+
 [American Dream Clean](https://www.americandreamclean.com) - American Dream Clean is a mission-driven commercial cleaning company delivering an exceptional cleaning service while also ensuring the children of the families we employ have access to a good education and a path to college and career. They serve as a portal to direct their families to Learn To Be to enroll in our online tutoring program.
 
 [Ascending Lights](https://ascendinglights.org) - Ascending Lights has a tutoring program that allows for their tutors to help first generation community college students through our virtual classroom.
@@ -345,7 +388,7 @@ In five years, the goal is to have 5000 families working with Learn To Be every 
 
 [ProUnitas](https://prounitas.org) - Prounitas empowers students by equipping academic institutions with a data-driven blueprint to eliminate non-academic barriers to student success. They offer Learn To Be as a service to the students they serve. 
 
-###### Corporate Partners
+###### Corporate Partners/Sponsors
 
 [Hulu](https://hulu.com) - We were one of the very first non-profits to be granted a PSA on hulu in 2009. This PSA helped to propel Learn To Be onto the education scene. Within the first days of the PSA launching, we received hundreds of tutor applications from interested candidates. 
 
@@ -353,16 +396,19 @@ In five years, the goal is to have 5000 families working with Learn To Be every 
 
 [Paperform](https://paperform.co) - Paperform has offered us a free Pro account and helped us to test out new educational offering and quickly collect survey data from tutors, students and parents. 
 
+[Executive Coaches of Orange County](http://ecofoc.org) - Offered pro-bono executive coaching to Learn To Be's CEO
 
 ### Major Funders (2015-16)
 
-None for 2017
+Orange County Community Foundation ($10,000)
 
 ### Leverage Funding Statement (explain the funding streams and ratio)
 
 ##### What is the immediate and long range plan for financial sustainability?
 
-Our operating costs to keep the Learn To Be site up and running for parents and tutors are very small. At our current scale, it costs us $3500 annually to run Learn To Be. We generate about $250 per month of recurring revenue from the parents we currently work with and so we're nearly sustainable with the number of students we're serving and our limited staff. 
+The operating costs to keep the Learn To Be site up and running for parents and tutors are very small. At our current scale, it costs us $3500 annually to run Learn To Be. 
+
+We generate about $250 per month of recurring revenue from the parents we currently work with and so we're nearly sustainable with the number of students we're serving and our limited staff. 
 
 But in order to scale, we know that we need to hire more staff. This staff can help us spread the word about Learn To Be, get more families to enroll and help us generate more funding. This is our long term plan for financial sustainability.  On average, families pay $8/month for the tutoring the receive. Tutoring lasts at least 12 months (though not always with the same tutor). 
 
