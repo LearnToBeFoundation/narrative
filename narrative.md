@@ -136,19 +136,29 @@ The second key challenge is ensuring that we connect students with the appropria
 
 
 ##### Age
+
 40% 5-9 years old 
+
 30% 10-13 years old
+
 30% 14-18 years old
 
 ##### Economic differentiators
-These are all self-reported by parents
+
+*These are all self-reported by parents*
 
 29% reported income from $0-10000
+
 20% reported icnome from $10001-20000
+
 20% reported income from $20001-30000
+
 15% reported income from $30001-40000
+
 2% reported income from $40001-50000
+
 8% reported income from $50001-60000
+
 6% reported income from $60001-70000
  
 ### Need (Problem) Statement
@@ -159,6 +169,36 @@ Families on food stamps, students attending Title 1 schools, homeless youth, stu
 ##### Region
 
 Nationwide 
+
+Below is a breakdown of every state where we've accepted a family for our tutoring. 
+
+Alabama - 2%
+Arizona - 4%
+California - 11%
+Colorado - 3%
+Florida - 9%
+Georgia - 7%
+Illinois - 1%
+Indiana - 2%
+Louisiana - 2%
+Maine - 1%
+Maryland - 2%
+Massachusetts - 1%
+Michigan - 1%
+Mississippi - 2%
+Montana - 1%
+New Jersey - 4%
+New York - 8%
+North Carolina - 3%
+Ohio - 3%
+Oklahoma - 2%
+Pennsylvania - 8%
+South Carolina - 3%
+Texas - 12%
+Virginia - 1%
+Washington - 2%
+
+
 
 ##### City financial situation
 *Is reporting median income for the cities we receive applications from ok?*
