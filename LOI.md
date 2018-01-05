@@ -30,4 +30,14 @@ The story of Baleigh's family is one of 200 that we have paired right now.
 
 And we're seeing results. 90% of our students see a 7% increase in scores after about 10 hours of work together. But more importantly, feedback we receive is showing that students are feeling more confident and parents are feeling more relieved. And in a countries where families are feeling the pinch in all facets of their life, we feel proud that we're helping lift some of the burden off of these parents. 
 
-Over the last year, we've stepped away and tried to reassess how we ocan sustain ourselves. We have come back as a social enterprise! In our student application, we now ask parents if they're willing to pay any hourly fee for the tutoring
+Over the last year, we've stepped away and tried to reassess how we ocan sustain ourselves. We have come back as a social enterprise! In our student application, we now ask parents if they're willing to pay any hourly fee for the tutoring. 
+
+With a small pilot we've run over the last several months, we are pulling in about $250 per month from our tutoring. The annual operating costs of running Learn To Be is about $3500 and so we are nearly financially sustainble!
+
+So why are we reaching out for funding? 
+
+Because we know that we can scale our operation to not just help 200 families, but to help 2000 and 20000 families with a little bit of help. We're proud of the website we've built but we know we can automate more processes if we can hire a web programmer to help. We have a current tutor cohort of over 1500 individuals and it is consistently growing. We don't have enough students to meet the demand of tutors and with the ability to hire a programmer to take care of the website, we can focus our efforts on spreading the word about Learn To Be and helping more students like Baleigh. 
+
+
+
+
