@@ -75,7 +75,18 @@ The family and tutor work out the best day/time(s) for tutoring and on that sche
 
 $3000
 
-##### Program 2: Online courses/practice modules
+##### Program 2: Partnership Tutoring
+
+###### Summary
+We have partner organizations that only want to use Learn To Be for the scheduling capabilities and the virtual classroom. They have their own cohort of tutors and students. 
+
+This is a great opportunity for Learn To Be to be a provider of technology and collect data on the efficacy of our online tutoring, while allowing other organizations to help provide resources for their youth. 
+
+###### Budget
+$0
+
+
+##### Program 3: Online courses/practice modules
 
 ###### Summary
 We rank very well on Google for many important search terms like 'Online Tutoring' and 'Free Online Tutoring' and this has led to over 60,000 students who have visited our site and have signed up for an account. With our scale, we are unable to accept all of these students for tutoring but we offer a couple of extensive practice modules for them to work on. 
@@ -130,7 +141,7 @@ We have a real opportunity to scale our operation to thousands of kids every yea
 
 
 ### Organization Programs and Services (Overview- brief paragraph each)
-*What does this mean? Should LTB only be writing something under educational paragraph? We don't do work with health, financial/economic development*
+*What does this mean? Should LTB only be writing something under educational paragraph? If so, what do we put? We don't do work with health, financial/economic development*
 ##### Educational  
 ##### Health  
 ##### Financial/Economic Devpt.
@@ -146,7 +157,7 @@ We have a real opportunity to scale our operation to thousands of kids every yea
 
 ##### Race/Ethnicity
 
-
+40% Hispanic, 30% African American, 27% Caucasian, 3% Asian American
 
 ##### Age
 
@@ -239,7 +250,7 @@ Virginia - 1%
 *Is reporting median income for the cities we receive applications from ok?*
 
 ##### Social services, or lack thereof
-*What does this mean?*
+*What sorts of stuff do you put here?*
 
 ##### What are the needs and why?
 
@@ -398,6 +409,10 @@ Student/Family Coordinators/Champion
 
 [Executive Coaches of Orange County](http://ecofoc.org) - Offered pro-bono executive coaching to Learn To Be's CEO
 
+[Two Sigmas](https://twosigmas.com) - They provide the virtual classroom that is used by Learn To Be tutors.
+
+[Groupworld](https://groupworld.net) - They provide the virtual classroom that is used by Learn To Be tutors.
+
 ### Major Funders (2015-16)
 
 Orange County Community Foundation ($10,000)
@@ -433,14 +448,14 @@ But, very simply, the incentives are aligned for us to recruit and on-board as m
 ##### Who else is doing 1-on-1 online tutoring the way Learn To Be is?
 
 Tutor Chat Live
-To my knowledge, the only company that does tutoring similar to Learn To Be is TutorChatLive. The difference is that their service is only through chat and does not involve a virtual classroom. This severely limits the efficacy of their tutoring because it is difficult to teach, for example, advanced algebra techniques via chat message only. 
+To my knowledge, the only company that does tutoring similar to Learn To Be is TutorChatLive. The difference is that their service is only through chat and does not involve a virtual classroom. This severely limits the efficacy of their tutoring because it is difficult to teach, for example, advanced algebra techniques via chat message only. Tutor Chat Live is a non-profit organization. 
 
 Tutor.com
-Tutor.com provides free on-demand tutoring through public libraries however I have seen no studies on efficacy of such work. We're convinced that education and teaching betweetn tutor and student goes far beyond 1 hour session to help a student finish homework. And especially with the kids we work with, forging relationships and working over a number of hours together is the key to building better foundations for the student.  
-
+Tutor.com provides free on-demand tutoring through public libraries however I have seen no studies on efficacy of such work. We're convinced that education and teaching betweetn tutor and student goes far beyond 1 hour session to help a student finish homework. And especially with the kids we work with, forging relationships and working over a number of hours together is the key to building better foundations for the student. Tutor.com is a huge for-profit company. And there are a lot of other for-profit companies like TutorMe, Chegg, Wyzant and many more that do online tutoring. 
 
 Khan Academy
-Organizations like the Khan Academy are a great educational service, but provide only pre-recorded videos. These are not well-suited for the demographic that Learn To Be is targeting.  Often times, Learn To Be works with students are who many grade levels behind and these one-size-fits-all videos just don't work for them. The students we work with need individualized help and that's what we are going to provide them with. 
+Organizations like the Khan Academy are a great educational service, but provide only pre-recorded videos. These are not well-suited for the demographic that Learn To Be is targeting.  Often times, Learn To Be works with students are who many grade levels behind and these one-size-fits-all videos just don't work for them. The students we work with need individualized help and that's what we are going to provide them with. The Khan Academy is a non-profit organization. 
+
 
 
 ### Outside References/Quotes by Partners
