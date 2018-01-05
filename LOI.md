@@ -38,6 +38,8 @@ So why are we reaching out for funding?
 
 Because we know that we can scale our operation to not just help 200 families, but to help 2000 and 20000 families with a little bit of help. We're proud of the website we've built but we know we can automate more processes if we can hire a web programmer to help. We have a current tutor cohort of over 1500 individuals and it is consistently growing. We don't have enough students to meet the demand of tutors and with the ability to hire a programmer to take care of the website, we can focus our efforts on spreading the word about Learn To Be and helping more students like Baleigh. 
 
+We’re not offering any quick fixes or grand solutions. Just a push towards an ideal: Individualized attention for every student who needs it.
 
+A grant from <INSERT> will bring us one step closer to that goal. 
 
 
