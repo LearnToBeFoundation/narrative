@@ -30,11 +30,10 @@ https://learntobe.org/501c3
  
 ### Organizational Chart (if available)
  
-Annual Report and/or Business Plan
-Please see the attached annual report (if available)
- 
+N/A 
+
 ### Year of Incorporation
-August 2008
+August, 2008
 
 ### Mission Statement
 
@@ -130,11 +129,27 @@ The second key challenge is ensuring that we connect students with the appropria
 
 ##### Gender breakdown
 
+60% female, 40% male
+
 ##### Race/Ethnicity
 
+
+
 ##### Age
+40% 5-9 years old 
+30% 10-13 years old
+30% 14-18 years old
 
 ##### Economic differentiators
+These are all self-reported by parents
+
+29% reported income from $0-10000
+20% reported icnome from $10001-20000
+20% reported income from $20001-30000
+15% reported income from $30001-40000
+2% reported income from $40001-50000
+8% reported income from $50001-60000
+6% reported income from $60001-70000
  
 ### Need (Problem) Statement
 ##### Demographics
@@ -146,15 +161,32 @@ Families on food stamps, students attending Title 1 schools, homeless youth, stu
 Nationwide 
 
 ##### City financial situation
-*What does this mean?*
+*Is reporting median income for the cities we receive applications from ok?*
 
 ##### Social services, or lack thereof
 *What does this mean?*
 
 ##### What are the needs and why?
-Here is the data: [https://www.dosomething.org/us/facts/11-facts-about-education-and-poverty-america](https://www.dosomething.org/us/facts/11-facts-about-education-and-poverty-america)
 
-We can talk about how low income parents struggle living paycheck to paycheck and come home after a long days work and are either unwilling or unable to help their kids. We receive applications all the time about parents who are heartbroken over their inability to help their kids with school work. 
+1. More than 30 million children are growing up in poverty. In one low-income community, there was only one book for every 300 children. 
+
+2. In 2011, nearly 46.2 million Americans were living in poverty.
+Children living in poverty have a higher number of absenteeism or leave school all together because they are more likely to have to work or care for family members.
+
+3. Dropout rates of 16 to 24-years-old students who come from low income families are seven times more likely to drop out than those from families with higher incomes.
+
+4. A higher percentage of young adults (31%) without a high school diploma live in poverty, compared to the 24% of young people who finished high school.
+
+5. 40% of children living in poverty aren’t prepared for primary schooling. Children that live below the poverty line are 1.3 times more likely to have developmental delays or learning disabilities than those who don’t live in poverty.
+
+6. By the end of the 4th grade, African-American, Hispanic and low-income students are already 2 years behind grade level. By the time they reach the 12th grade they are 4 years behind.
+
+7. In 2013, the dropout rate for students in the nation was at 8% for African American youth, 7% for Hispanic youth, and 4% for Asian youth, which are all higher than the dropout rate for Caucasian youth (4%).
+
+8. Less than 30% of students in the bottom quarter of incomes enroll in a 4 year school. And among the group that does, less than 50% graduate.
+
+The statistics above don't do justice to the heartbroken mother who just wants what's best for her child but is unable to them. The mother who is working 12, 13, 14 hours a day as a single parent in order to provide the essentials. 
+
 
 They want what's best for their kids and are doing their best, but from an academic perspective, are unable to provide it.  These parents recognize the value of a quality education and that's why they've come to Learn To Be. They can't afford the egregious tutoring costs that many tutoring companies advertising.
 
