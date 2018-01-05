@@ -447,13 +447,16 @@ But, very simply, the incentives are aligned for us to recruit and on-board as m
 ### Comparable Programs
 ##### Who else is doing 1-on-1 online tutoring the way Learn To Be is?
 
-Tutor Chat Live
+**Tutor Chat Live**
+
 To my knowledge, the only company that does tutoring similar to Learn To Be is TutorChatLive. The difference is that their service is only through chat and does not involve a virtual classroom. This severely limits the efficacy of their tutoring because it is difficult to teach, for example, advanced algebra techniques via chat message only. Tutor Chat Live is a non-profit organization. 
 
-Tutor.com
+**Tutor.com**
+
 Tutor.com provides free on-demand tutoring through public libraries however I have seen no studies on efficacy of such work. We're convinced that education and teaching betweetn tutor and student goes far beyond 1 hour session to help a student finish homework. And especially with the kids we work with, forging relationships and working over a number of hours together is the key to building better foundations for the student. Tutor.com is a huge for-profit company. And there are a lot of other for-profit companies like TutorMe, Chegg, Wyzant and many more that do online tutoring. 
 
-Khan Academy
+**Khan Academy**
+
 Organizations like the Khan Academy are a great educational service, but provide only pre-recorded videos. These are not well-suited for the demographic that Learn To Be is targeting.  Often times, Learn To Be works with students are who many grade levels behind and these one-size-fits-all videos just don't work for them. The students we work with need individualized help and that's what we are going to provide them with. The Khan Academy is a non-profit organization. 
 
 
@@ -466,4 +469,5 @@ None :(
 ##### Media/ News Articles
 
 [Learn To Be Hulu PSA](https://vimeo.com)
+
 [Time](http://time.com/money/3558650/how-to-save-on-tutoring/)
