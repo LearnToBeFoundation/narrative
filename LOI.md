@@ -1,12 +1,16 @@
-Imagine the following scenario: single parent with two children, living on food stamps in a community where the median income is about $25000, the parent working full time and needing to find ways to help her child with school.  
+Baleigh is a wonderful little second grader, living with her single mother, Selena, in a city where the median income is $20,000.  Selena is like any other parent: working full time to provide for her daugther and wanting nothing but the best for her. 
 
-It's unfathomable to think but parents like these have few options available to them to do the little things like help their children with their homework. But this is what we see everyday at Learn To Be, a non-profit dedicated to bringing 1-on-1, online tutoring to underserved youth around the nation. 
+That includes her education. 
 
-And the parent from above? Her name is Selena and she applied to join Learn To Be by filling out our application for help in reading for her 8 year old daughter Baleigh. She wrote: 
+But with her work schedule and _____, she just isn't able to support her student's needs in school. 
+
+And so Selena reached to Learn To Be, our non-profit that brings 1-on-1, online tutoring to K-12 underserved youth around the nation. In her application, she wrote:
 
 *Baleigh is in the 2nd grade and she is such a lovable young lady that loves to learn. From kindergarten to 1st grade Baleigh has done well in all subjects but reading has always been the subject that she had to work extra hard at. Now that she is in 2nd grade she is having a hard time in reading fluency so that frustrates her and that makes her confidence go down. I just want her to be the best she can and get any help she can get. I wish I could afford to pay for a tutor but it is just not in my finances.*
 
-Baleigh came to us with with scores hovering around 50% in reading. We paired her with Seena, a wonderful tutor from Austin, Texas who recently graduated college. Seena met with Baleigh and her family over email where they worked out the best day and time for tutoring. They started working together in the Learn To Be virtual classroom, which functions a lot like Google Hangouts or Skype but with more tutoring friendly functionality. And these two really hit it off!
+Baleigh came to us with with scores hovering around 50% in reading. We paired her with Seena, a wonderful tutor from Austin, Texas who recently graduated college. Seena met with Baleigh and her family over email where they worked out the best day and time for tutoring. They started working together in the Learn To Be virtual classroom, which functions a lot like Google Hangouts or Skype but with more tutoring friendly functionality. 
+
+And the two really hit it off!
 
 We consistently receive survey results from Seena that looked like something like this: 
 
@@ -16,9 +20,9 @@ And near the end of their tutoring, Seena mentioned to us:
 
 *Today Baleigh read a story with little assistance! I had to tell her that next week was going to be our last and sadly, she started to cry but I told her next week, I'll have something fun planned. I will definitely miss her!*
 
-How unlikely is it that a young student from Georgia and a young college grad from Texas are able to connect in such a meaningful way? 
+How like is it that a young student from Georgia and a young college grad from Texas are able to connect in such a meaningful way? 
 
-But what the most important part of this process, the actual tutorin? Was it effective and was Baleigh improving? 
+But what about the most important part of this process, the actual tutoring? Was it effective and was Baleigh improving? 
 
 Yes!
 
