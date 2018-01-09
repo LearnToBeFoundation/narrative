@@ -1,5 +1,5 @@
 ### Name of Organization
-Learn To Be Foundation
+Learn To Be
 
 ### Contact Information 
 
