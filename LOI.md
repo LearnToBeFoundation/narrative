@@ -1,3 +1,7 @@
+Single mother. Living in a city with a $20000 median income. Family on food stamps. And a student attending a Title 1 school. 
+
+This is a set of barriers that almost always resigns a student to fail in school. 
+
 Baleigh is a wonderful little second grader, living with her single mother, Selena, in a city where the median income is $20,000.  Selena is like any other parent: working full time to provide for her daugther and wanting nothing but the best for her. 
 
 That includes her education. 
